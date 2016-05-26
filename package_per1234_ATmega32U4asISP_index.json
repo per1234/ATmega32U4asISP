@@ -1,0 +1,39 @@
+{
+  "packages": [
+    {
+      "name": "ATmega32U4asISP",
+      "maintainer": "per1234",
+      "websiteURL": "https://github.com/per1234/ATmega32U4asISP",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "ATmega32U4asISP",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://per1234.github.io/ATmega32U4asISP/ATmega32U4asISP_1.0.0.tar.gz",
+          "archiveFileName": "ATmega32U4asISP_1.0.0.tar.gz",
+          "checksum": "SHA-256:5a47525ff6e66af0db6fc127a0b83479688bb7d37c88d98818d2d86c83260cd9",
+          "size": "2615",
+          "boards": [
+            {"name": "Arduino as ISP(ATmega32U4)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
