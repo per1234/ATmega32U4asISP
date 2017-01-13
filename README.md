@@ -42,3 +42,7 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 - **Tools > Programmer > Arduino as ISP(ATmega32U4)**
 - **Tools > Board** > select target board
 - **Tools > Burn Bootloader** or **Sketch > Upload Using Programmer**
+
+
+#### Contributing
+Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/ATmega32U4asISP/blob/master/CONTRIBUTING.md) for instructions.
